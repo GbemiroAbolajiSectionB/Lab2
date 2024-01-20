@@ -1,0 +1,101 @@
+header{
+
+color: blueviolet;
+font-size: xx-large;
+text-align: center;
+font-weight: bolder;
+font-style: normal;
+
+}
+
+
+p1{
+
+text-align: justify;
+font-size: xx-large;
+font-weight: bolder;
+color: black;
+}
+
+p2{
+
+    text-align: justify;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: black;
+    }
+
+p3{
+
+     text-align: justify;
+     font-size: xx-large;
+     font-weight: bolder;
+     color: black;
+        }
+
+p4{
+
+    text-align: justify;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: black;
+      }
+
+      p6{
+
+       text-align: center;
+        font-size: xx-large;
+        font-weight: bolder;
+        color: green;
+          }
+
+    .flex-container3 {
+        display: flex;
+        background-color: blueviolet;
+        flex-direction: row;
+        justify-content: space-around;
+        align-self: center;
+      }
+      
+      .flex-container3 > div {
+        background-color: #f1f1f1;
+        width: 600px;
+        line-height: 25px;
+        margin: 10px;
+        padding: 40px;
+        font-size: 20px;
+      }
+
+      .flex-container4 {
+        display: flex;
+        background-color: blueviolet;
+        flex-direction: row;
+        justify-content: space-around;
+        align-self: center;
+      }
+      
+      .flex-container4 > div {
+        background-color: #f1f1f1;
+        width: 600px;
+        line-height: 25px;
+        margin: 10px;
+        padding: 40px;
+        font-size: 20px;
+      }
+      
+      .flex-container5 {
+        display: flex;
+        background-color: blueviolet;
+        flex-direction: column;
+        justify-content: space-around;
+        align-self: center;
+      }
+      
+      .flex-container5 > div {
+        background-color: #f1f1f1;
+        width: 600px;
+        line-height: 25px;
+        margin: 10px;
+        padding: 40px;
+        font-size: 20px;
+      }
